@@ -7,6 +7,6 @@ file: Justonesmallstep.c
 int main(void)
 {
     printf("Just one small step for coders.  One giant leap for");
-    printf(" programmers!\n");
+    printf(" programmers!\n"); //print programmers
     return 0;
 }
